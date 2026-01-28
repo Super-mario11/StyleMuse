@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (if you add Node/npm later)
+node_modules/
+dist/
+build/
+
+# Editor backups
+*.bak
+*.backup
+
+# Misc
+.env
+.env.local
+*.cache
