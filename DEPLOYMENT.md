@@ -279,7 +279,7 @@ git push origin main
 - **Minimum CTR Target**: 0.5% click-through rate
 - **Average Commission**: 2-10% per click (varies by product)
 - **Payment**: Monthly to bank account
-- **Minimum**: Must earn $10+ for payment
+- **Minimum**: Must earn ₹10+ for payment
 
 ---
 

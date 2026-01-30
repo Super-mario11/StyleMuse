@@ -184,10 +184,10 @@ TO START EARNING:
 
 INCOME POTENTIAL:
 ────────────────────────────────────────────────────────────────────────────────
-Month 1:     $0-10 (building foundation)
-Month 3:     $10-100 (gaining momentum)
-Month 6:     $100-500 (scaling traffic)
-Month 12:    $500-2000+ (consistent income)
+Month 1:     ₹0-10 (building foundation)
+Month 3:     ₹10-100 (gaining momentum)
+Month 6:     ₹100-500 (scaling traffic)
+Month 12:    ₹500-2000+ (consistent income)
 
 (Results vary with effort and optimization)
 
@@ -215,7 +215,7 @@ Documentation: DEPLOYMENT.md Option 2
 WEB HOSTING (PAID):
 ────────────────────────────────────────────────────────────────────────────────
 Time: 15 minutes
-Cost: $2-10/month
+Cost: ₹2-10/month
 Domain: Your custom domain
 Pros: Full control, unlimited features
 Documentation: DEPLOYMENT.md Option 3

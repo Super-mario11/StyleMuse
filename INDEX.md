@@ -282,7 +282,7 @@ See [README.md](README.md) for Troubleshooting section
 - **Month 1**: First 100 visitors, 1-2 clicks
 - **Month 3**: 500+ visitors, 5-10 conversions
 - **Month 6**: 2,000+ visitors, consistent earnings
-- **Month 12**: 5,000+ visitors, $100-500/month potential
+- **Month 12**: 5,000+ visitors, ₹100-500/month potential
 
 ---
 
@@ -351,7 +351,7 @@ Week 3: First sale! 🎉
 Week 4: Analyze performance
 Month 2: Optimize and expand
 Month 3: Consistent traffic
-Month 6: Earning $$$
+Month 6: Earning ₹₹₹
 ```
 
 ---

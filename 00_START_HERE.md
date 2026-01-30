@@ -334,19 +334,19 @@ Looking for a domain? Consider:
 - Visitors: 100-500
 - Clicks: 1-5
 - Conversions: 0-1
-- Earnings: $0-10
+- Earnings: ₹0-10
 
 **Month 3:**
 - Visitors: 500-2,000
 - Clicks: 5-20
 - Conversions: 1-4
-- Earnings: $10-100
+- Earnings: ₹10-100
 
 **Month 6:**
 - Visitors: 2,000-5,000
 - Clicks: 20-50
 - Conversions: 4-10
-- Earnings: $100-500
+- Earnings: ₹100-500
 
 *Varies based on traffic quality and conversion optimization*
 

@@ -3,9 +3,9 @@
    ======================================== */
 
 // ========================================
-// Product Data
+// Product Data (with localStorage persistence)
 // ========================================
-const productsData = [
+const productsDataDefault = [
     // Skincare
     {
         id: 1,
@@ -277,6 +277,27 @@ const productsData = [
     }
 ];
 
+let productsData = (localStorage.getItem('stylemuse_products'))
+    ? JSON.parse(localStorage.getItem('stylemuse_products'))
+    : JSON.parse(JSON.stringify(productsDataDefault));
+
+function saveProducts() {
+    try {
+        localStorage.setItem('stylemuse_products', JSON.stringify(productsData));
+    } catch (e) {
+        console.error('Failed to save products to localStorage', e);
+    }
+}
+
+function replaceProducts(newArr) {
+    productsData = newArr;
+    saveProducts();
+}
+
+window.getProducts = () => productsData;
+window.saveProducts = saveProducts;
+window.replaceProducts = replaceProducts;
+
 let displayedCount = 8; // Initial number of products to display
 let currentCategory = 'all';
 
@@ -379,8 +400,8 @@ function createProductCard(product) {
                     <span>(${product.reviews} reviews)</span>
                 </div>
                 <div class="product-price">
-                    <span class="original">$${product.originalPrice.toFixed(2)}</span>
-                    $${product.price.toFixed(2)}
+                    <span class="original">₹${product.originalPrice.toFixed(2)}</span>
+                    ₹${product.price.toFixed(2)}
                 </div>
                 <a href="${product.affiliate}" target="_blank" rel="noopener noreferrer" class="product-btn">
                     Buy on Amazon

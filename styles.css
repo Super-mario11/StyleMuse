@@ -1099,3 +1099,125 @@ button:focus {
     outline: 2px solid var(--gold);
     outline-offset: 2px;
 }
+
+/* ========================================
+   Admin Page Styles
+   ======================================== */
+.admin-container {
+    max-width: 1200px;
+    margin: 3rem auto;
+    padding: 0 2rem 4rem;
+}
+
+.admin-panel {
+    display: grid;
+    grid-template-columns: 1fr 360px;
+    gap: 2rem;
+    align-items: start;
+}
+
+.admin-list {
+    background: var(--white);
+    padding: 1rem;
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+}
+
+.admin-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.admin-table th,
+.admin-table td {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+.admin-table thead th {
+    background: var(--light-gray);
+    font-weight: 600;
+}
+
+.admin-form {
+    background: var(--white);
+    padding: 1.25rem;
+    border-radius: 12px;
+    box-shadow: var(--shadow-hover);
+}
+
+.admin-form label {
+    display: block;
+    margin-bottom: 0.75rem;
+    font-size: 0.9rem;
+}
+
+.admin-form input[type="text"],
+.admin-form input[type="number"],
+.admin-form input[type="url"],
+.admin-form textarea {
+    width: 100%;
+    padding: 0.6rem 0.8rem;
+    border-radius: 8px;
+    border: 1px solid var(--light-gray);
+    margin-top: 0.3rem;
+}
+
+.admin-form textarea { min-height: 80px; }
+
+.form-actions { display:flex; gap:0.5rem; margin-top:1rem; }
+
+.admin-message {
+    max-width: 1200px;
+    margin: 1rem auto 0;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+@media (max-width: 900px) {
+    .admin-panel { grid-template-columns: 1fr; }
+}
+
+/* Improved admin responsiveness */
+@media (max-width: 900px) {
+    .mobile-toggle { display: inline-block; }
+
+    .admin-list-wrapper {
+        max-height: 48vh;
+        overflow: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .admin-list { padding: 0.5rem; }
+
+    .admin-form {
+        display: none;
+        margin-top: 0.75rem;
+    }
+
+    .admin-form.open {
+        display: block;
+    }
+
+    .admin-table {
+        min-width: 600px;
+        width: 100%;
+    }
+
+    .admin-table th, .admin-table td { padding: 0.6rem 0.75rem; }
+
+    .admin-form .btn { width: 100%; }
+}
+
+@media (max-width: 480px) {
+    .admin-panel { gap: 1rem; }
+    .admin-table { min-width: 480px; }
+    .admin-table td { font-size: 0.9rem; }
+    .actions button { display: inline-block; width: auto; margin-bottom: 0.25rem; }
+    .mobile-toggle { width: 100%; text-align: center; }
+}
+
+/* Mobile toggle button hidden by default */
+.mobile-toggle { display: none; margin-bottom: 1rem; }

@@ -177,10 +177,10 @@ TO START EARNING:
 5. Drive traffic and earn 2-10% commissions
 
 INCOME POTENTIAL:
-• Month 1: $0-10 (getting started)
-• Month 3: $10-100 (building momentum)
-• Month 6: $100-500 (scaling up)
-• Month 12: $500-2000+ (consistent)
+• Month 1: ₹0-10 (getting started)
+• Month 3: ₹10-100 (building momentum)
+• Month 6: ₹100-500 (scaling up)
+• Month 12: ₹500-2000+ (consistent)
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -203,7 +203,7 @@ NETLIFY (FREE - Powerful):
 
 WEB HOSTING (PAID):
 ⏱️ Time: 15 minutes
-💰 Cost: $2-10/month
+💰 Cost: ₹2-10/month
 🎯 Domain: Your custom domain
 ✅ Best for: Full control
 → See: DEPLOYMENT.md Option 3
@@ -221,34 +221,34 @@ CLOUDFLARE PAGES (FREE):
 ═════════════════════════════════════════════════════════════════════════════
 
 SKINCARE (4 products):
-✓ Hyaluronic Acid Serum - $24.99
-✓ Retinol Night Cream - $32.99
-✓ Vitamin C Brightening Serum - $28.50
-✓ Luxury Face Moisturizer - $36.99
+✓ Hyaluronic Acid Serum - ₹24.99
+✓ Retinol Night Cream - ₹32.99
+✓ Vitamin C Brightening Serum - ₹28.50
+✓ Luxury Face Moisturizer - ₹36.99
 
 MAKEUP (4 products):
-✓ Liquid Foundation - $29.99
-✓ Luxury Lipstick Set - $34.99
-✓ Eyeshadow Palette Pro - $38.99
-✓ Mascara Volumizer - $19.99
+✓ Liquid Foundation - ₹29.99
+✓ Luxury Lipstick Set - ₹34.99
+✓ Eyeshadow Palette Pro - ₹38.99
+✓ Mascara Volumizer - ₹19.99
 
 HAIRCARE (4 products):
-✓ Argan Oil Hair Serum - $16.99
-✓ Keratin Shampoo & Conditioner - $22.99
-✓ Deep Conditioning Hair Mask - $18.99
-✓ Hair Growth Shampoo - $24.99
+✓ Argan Oil Hair Serum - ₹16.99
+✓ Keratin Shampoo & Conditioner - ₹22.99
+✓ Deep Conditioning Hair Mask - ₹18.99
+✓ Hair Growth Shampoo - ₹24.99
 
 WOMEN'S FASHION (4 products):
-✓ Premium Silk Blouse - $49.99
-✓ Elegant Maxi Dress - $59.99
-✓ Classic White T-Shirt - $24.99
-✓ Fitted Blazer - $64.99
+✓ Premium Silk Blouse - ₹49.99
+✓ Elegant Maxi Dress - ₹59.99
+✓ Classic White T-Shirt - ₹24.99
+✓ Fitted Blazer - ₹64.99
 
 ACCESSORIES (4 products):
-✓ Gold Layered Necklace - $29.99
-✓ Leather Crossbody Bag - $69.99
-✓ Pearl Stud Earrings - $19.99
-✓ Designer Sunglasses - $79.99
+✓ Gold Layered Necklace - ₹29.99
+✓ Leather Crossbody Bag - ₹69.99
+✓ Pearl Stud Earrings - ₹19.99
+✓ Designer Sunglasses - ₹79.99
 
 TOTAL: 20 products ready to customize!
 
